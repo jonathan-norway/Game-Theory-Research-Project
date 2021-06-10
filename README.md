@@ -1,0 +1,2 @@
+There is an energy company that supplies energy to a housing development. At the housing development there is a manager that oversees the energy that is used by the tenants that live there. The manager would benefit from the tenants using less energy because the energy company offers an incentive for saving energy. The tenants are offered an incentive by the manager, in an attempt to get the tenants to use less energy.
+For this research project we use game theory to solve this dilemma. 
